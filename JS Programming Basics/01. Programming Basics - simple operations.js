@@ -2,7 +2,7 @@
 // My first code here:
 
 function area(a, b) {
-    return a*b;
+    return a * b;
 }
 console.log(area(6, 7));
 var myArray = []
