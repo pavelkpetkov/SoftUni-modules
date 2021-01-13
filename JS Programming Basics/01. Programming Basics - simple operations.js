@@ -31,16 +31,6 @@ function newNameName (parameter) {
 newNameName ("Hi Hi Hi");
 newNameName (678);
 
-function someNewName (parameter) {
-    let myWife = "Yana";
-    return ("Hello " + parameter + " " + myWife + " " + newVar);
-};
-let papapa = someNewName ("my");
-console.log("5 + " + papapa);
-
-let something = 89;
-console.log(something);
-
 
 //Lection 02.05.2020 - First steps in coding - Lab
 
