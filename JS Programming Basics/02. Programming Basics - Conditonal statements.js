@@ -1,7 +1,7 @@
 //Lection 09.05.2020 Conditional statements - Lab
 
 function solve() {
-    //булеви стойности true/false
+    //boolean: true/false
     let firstNum = 3;
     let secondNum = 5;
     let isBigger = firstNum > secondNum;
