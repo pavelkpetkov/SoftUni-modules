@@ -551,7 +551,4 @@ function solve(input) {
     }
 console.log(mySpecials);
 }
-solve(["16"])
-
-
-
+solve(["16"]);
