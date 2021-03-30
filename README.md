@@ -1,8 +1,10 @@
 # SoftUni-modules
 
-[Programming Basics with JS - Certificate](https://softuni.bg/certificates/details/84153/023b0744)
+##Certificates & course curriculum:
 
-[Programming Fundamentals with JS - Certificate](https://softuni.bg/certificates/details/96760/ade28d48)
+[Programming Basics with JS](https://softuni.bg/certificates/details/84153/023b0744)
 
-[JS Advanced - Certificate](https://softuni.bg/certificates/details/98260/3c4d4176)
+[Programming Fundamentals with JS](https://softuni.bg/certificates/details/96760/ade28d48)
+
+[JS Advanced](https://softuni.bg/certificates/details/98260/3c4d4176)
 
