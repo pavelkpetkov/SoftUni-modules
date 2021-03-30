@@ -1,6 +1,6 @@
 # SoftUni-modules
 
-##Certificates & course curriculum:
+## Certificates & course curriculum:
 
 [Programming Basics with JS](https://softuni.bg/certificates/details/84153/023b0744)
 
