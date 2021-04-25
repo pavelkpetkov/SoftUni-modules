@@ -1,7 +1,5 @@
 function generateReport() {
 
-    //Fucking finally:
-
     let rowHead = document.querySelectorAll('thead tr th');
     // console.log(rowHead)
     let indexes = []
