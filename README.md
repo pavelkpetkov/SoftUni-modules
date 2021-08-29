@@ -9,3 +9,6 @@
 [JS Advanced](https://softuni.bg/certificates/details/98260/3c4d4176)
 
 [JS Applications](https://softuni.bg/certificates/details/105543/ab39a1ce)
+
+[JS Back-End](https://softuni.bg/certificates/details/113221/cc5354dd)
+
