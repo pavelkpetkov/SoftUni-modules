@@ -1,4 +1,4 @@
-# <p align="center"> Courses from the main program in SoftUni <p>
+<h1 align="center"> Courses from the main program in SoftUni </h2>
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses"> ![SoftUni logo][logo] </a>
 
@@ -6,8 +6,8 @@
 
 <br/>
 <br/>
-<br/>
-<h2> Certificates & course curriculum: </h2>
+
+<h1 align="center"> Certificates & course curriculum: </h2>
 
 [Programming Basics with JS](https://softuni.bg/certificates/details/84153/023b0744)
 
