@@ -7,7 +7,7 @@
 <br/>
 <br/>
 <br/>
-## <p align="center"> Certificates & course curriculum: <p>
+# <p align="center"> Certificates & course curriculum: <p>
 
 [Programming Basics with JS](https://softuni.bg/certificates/details/84153/023b0744)
 
