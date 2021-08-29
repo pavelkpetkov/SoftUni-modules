@@ -7,12 +7,7 @@
 <br/>
 <br/>
 <br/>
-
-
-
-# SoftUni-modules
-
-## Certificates & course curriculum:
+## <p align="center"> Certificates & course curriculum: <p>
 
 [Programming Basics with JS](https://softuni.bg/certificates/details/84153/023b0744)
 
