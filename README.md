@@ -1,4 +1,4 @@
-<h1 align="center"> Courses from the main program in SoftUni </h2>
+<h1 align="center"> Courses from the main program in Software University Sofia </h2>
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses"> ![SoftUni logo][logo] </a>
 
@@ -18,4 +18,12 @@
 [JS Applications](https://softuni.bg/certificates/details/105543/ab39a1ce)
 
 [JS Back-End](https://softuni.bg/certificates/details/113221/cc5354dd)
+
+[HTML & CSS](https://softuni.bg/certificates/details/117737/11403542)
+
+[ReactJS](https://softuni.bg/certificates/details/122686/07b414d3)
+
+[Angular](https://softuni.bg/certificates/details/133096/2538f517)
+
+
 
