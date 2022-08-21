@@ -1,0 +1,75 @@
+*, 
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    
+}
+
+section {
+    background-color: #f6f8f9;
+    color: #47505c;
+    width: 800px;
+    margin: 50px auto;
+    display: flex;
+    position: relative;
+    letter-spacing: 1px;
+}
+
+h2 {
+    font-weight: 200;
+}
+
+.enterprice-text-head {
+    font-style: normal;
+    font-size: small;
+}
+
+.enterprice-text {
+    width: 60%;
+    margin: 40px 30px;
+    line-height: 1.6em;
+    padding-bottom: 40px;
+}
+
+.image {
+    width: 50%;
+}
+
+img {
+    position: relative;
+    bottom: -58px;
+    width: 100%;
+    height: auto;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+
+.buttons {
+    display: flex;
+    margin-top: 30px;
+}
+
+.buttons-contact {
+    color: white;
+    background-color: #786eff;
+    padding: 10px 15px;
+    border-radius: 3px;
+    border: none;
+    margin-right: 20px;
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.buttons-learn {
+    color: #47505c;
+    background-color: none;
+    padding: 10px 15px;
+    border-radius: 3px;
+    border: 1px solid #47505c;
+    font-weight: bolder;
+    letter-spacing: 0.8px;
+}
