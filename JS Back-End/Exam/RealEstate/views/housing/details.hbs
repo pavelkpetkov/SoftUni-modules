@@ -1,0 +1,52 @@
+<main>
+    <section id="deatils-page">
+        <div class="wrapper">
+            <div class="product-img">
+                <img src="{{house.homeImage}}">
+            </div>
+            <div class="product-info">
+                <div class="product-text">
+                    <div class="product-text">
+                        <h1>Name: {{house.name}}</h1>
+                        <h2>Type: {{house.type}}</h2>
+                        <h4>Year: {{house.year}}</h4>
+                        <h4>City: {{house.city}}</h4>
+                        <p>Description: {{house.description}}</p>
+
+                        <!-- if there are already tenants of the housing, separate their names with a comma and a space ", "  -->
+                        {{#if house.rented}}
+                        <p>People rented this housing: {{house.peopleIn}}</p>
+                        {{else}}
+                        <!-- If not display: -->
+                        <p>People rented this housing: There are no tenants yet.</p>
+                        {{/if}}
+                    </div>
+                </div>
+
+                <!-- if there is no registered user, do not display buttons-->
+                {{#if user}}
+                <div class="product-btn">
+                    <!-- Only for registered user and creator of the housing offer-->
+                    {{#if house.isOwner}}
+                    <a href="/house/edit/{{house._id}}" class="edit">Edit</a>
+                    <a href="/house/delete/{{house._id}}" class="remove">Delete</a>
+                    {{else}}
+                    <!-- logged in user with available pieces-->
+                    {{#unless house.hasJoined}}
+                    {{#if house.hasFree}}
+                    <a href="/house/join/{{house._id}}" class="rentHome">Rent a home, available {{house.availablePieces}} housing</a>
+                    {{/if}}
+                    {{else}}
+                    <p class="alRentHome">You have already rent this home</p>
+                    {{/unless}}
+                    <!-- logged in user with no available pieces-->
+                    {{#unless house.hasFree}}
+                    <p class="no-housing">No Housing Available!</p>
+                    {{/unless}}
+                    {{/if}}
+                </div>
+                {{/if}}
+            </div>
+        </div>
+    </section>
+</main>
