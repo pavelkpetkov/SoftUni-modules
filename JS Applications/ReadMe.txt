@@ -1,1 +1,1 @@
-Exam from JS Applications course
+Exam from JS Applications course.
