@@ -25,5 +25,9 @@
 
 [Angular](https://softuni.bg/certificates/details/133096/2538f517)
 
+Additional courses:
+
+[MS SQL](https://softuni.bg/certificates/details/135068/54d2d9a3)
+
 
 
